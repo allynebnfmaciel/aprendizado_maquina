@@ -1,0 +1,12 @@
+# Resumo dos Primeiros Três Capítulos do Livro "Designing Machine Learning Systems" de Chip Huyen
+
+## Capítulo 1: Introdução ao Aprendizado de Máquina
+Neste capítulo introdutório, Huyen explora os fundamentos do aprendizado de máquina (ML). Ela define ML como um subcampo da inteligência artificial (IA) que permite aos sistemas aprenderem padrões a partir de dados sem serem explicitamente programados. Huyen destaca as três formas principais de aprendizado de máquina: supervisionado, não supervisionado e por reforço. Ela também aborda conceitos básicos, como conjuntos de dados, modelos, treinamento e avaliação, além de fornecer uma visão geral dos principais desafios enfrentados ao projetar sistemas de ML.
+
+## Capítulo 2: Aprendizado de Máquina Supervisionado
+No segundo capítulo, Huyen mergulha no aprendizado supervisionado, onde os modelos são treinados com exemplos rotulados. Ela discute em detalhes os principais algoritmos de aprendizado supervisionado, incluindo regressão linear, regressão logística, árvores de decisão, k-vizinhos mais próximos (KNN) e máquinas de vetores de suporte (SVM). Huyen explora como esses algoritmos são aplicados em diferentes tipos de problemas, como classificação e regressão, e destaca suas vantagens e limitações. Além disso, ela fornece insights sobre como escolher o algoritmo adequado para um determinado problema e como avaliar a performance do modelo.
+
+## Capítulo 3: Aprendizado de Máquina Não Supervisionado
+No terceiro capítulo, Huyen concentra-se no aprendizado não supervisionado, onde os modelos são treinados com exemplos não rotulados. Ela explora técnicas como clustering, redução de dimensionalidade e associação. Huyen descreve algoritmos populares, como k-means, agrupamento hierárquico, PCA (Análise de Componentes Principais) e algoritmos de associação, como Apriori. Ela ilustra como esses métodos são aplicados em problemas do mundo real, como segmentação de clientes, análise de componentes principais e regras de associação em cestas de compras. Além disso, ela discute os desafios e as considerações importantes ao usar aprendizado não supervisionado.
+
+Estes três primeiros capítulos estabelecem uma base sólida para compreender os princípios fundamentais e as técnicas essenciais no projeto de sistemas de aprendizado de máquina. Huyen equilibra a teoria com exemplos práticos, preparando os leitores para explorar tópicos mais avançados nos capítulos subsequentes do livro.
